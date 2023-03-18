@@ -1,0 +1,13 @@
+[
+	{
+		"name": "gereja",
+		"host": "ftp.hebatconsulting.com",
+		"port": 21,
+		"type": "ftp",
+		"username": "gereja@bpp-mamre.hebatconsulting.com",
+		"password": "qwerty@#!",
+		"path": "/",
+		"autosave": true,
+		"confirm": true
+	}
+]
